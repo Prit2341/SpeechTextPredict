@@ -29,7 +29,7 @@ A project combining speech-to-text conversion and text prediction for seamless a
 
 1. Run the main script:
     ```sh
-    model1.py
+    main.py
     ```
 
 2. Speak into your microphone and see the text conversion and prediction in action!
