@@ -1,5 +1,5 @@
 venv/
-*.wave 
+*.wav
 
 # Ignore Keras model files
 *.h5
