@@ -1,0 +1,9 @@
+venv/
+*.wave 
+
+# Ignore Keras model files
+*.h5
+*.keras
+
+# Ignore pickle files
+*.pickle
